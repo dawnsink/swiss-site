@@ -4,6 +4,11 @@
     margin: 0;
     padding: 0;
 }
+@media screen and (min-width: 800px) {
+    .grid-container {
+      flex-direction: column;
+    }
+  }
 
 body {
     width: 100%;
@@ -22,6 +27,7 @@ body {
 .grid-container {
     margin: 2% 1% 0 1%;
     display: inline-flex;
+    flex-direction: row;
     grid-template-columns: 32% 32% 32%;
     grid-column-gap: 2%;
     }
