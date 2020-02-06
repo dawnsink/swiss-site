@@ -1,14 +1,10 @@
-*website for FOOD*
-
-*about*
+# Website for FOOD
 
 For this assignment, I'm reimagining printed promotional files from [link to Food on wikipedia](https://en.wikipedia.org/wiki/FOOD_(New_York_restaurant) "Food, an artist run restarurant started in 1971 by Carol Goodden, Tina Girouard and Gordon Matta-Clark"), as a website. 
 
 -----------------------------------
 
-*notes and process*
-
-*references & inspiration*
+## References & Inspiration
 
 I chose this image as my inspiration source for design: 
 ![Zurich Operahouse Poster](Ref-poster.jpg)
@@ -17,7 +13,7 @@ I also used this printed promo that FOOD released in 1971, to announce the resta
 ![Food promo flyer from 1971](FOOD.jpg)
 
 -----------------------------------
-*PROCESS*
+## Process
 
 *prerequisites*
 
@@ -57,6 +53,6 @@ This project is hosted on Github. It is deployed on Glitch.
 I used Sketch, VS Code, Github and Glitch for this site. The page uses simple HTMl, CSS and Javascript. 
 
 -----------------------------------
-*questions*
+## Questions
 
 I got kinda stuck in the CSS flex box. I was able to make my grid and get HTML content in place. I wanted to size my div boxes but found that even when I applied CSS to them, there was some inexplicable space - that did not seem to be padding, margin etc...halp! Also, my image did not fill the div container as expected. I reworked the grid and it seems a bit better but still cannot quite work out why my columns are not the same width- they are set to each be 32% but are showing s/m/l widths. 
