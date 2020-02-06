@@ -26,7 +26,7 @@ Just a modern browser to view.
 ### Part I
 
 1. After I chose my inspiration, I started sketching. This is my final sketch before moving to to digital rendering in Sketch. 
-![website sketch- pen and paper lo-fi rendering](sketch.jpg)
+![website sketch- pen and paper lo-fi rendering](sketch.JPG)
 
 2. From there, I moved into designing in Sketch. I started with a wireframe to block out the design based on the poster. This is my first digital pass at the design. 
 ![wireframe for Food site](wireframe.jpg)
@@ -50,6 +50,7 @@ OK tried to solve some grid problems and kinda made things worse? I was able rea
 ![third go at CSS styling](CSS3.png) 
 
 *deployment*
+[View my site on Glitch][https://dawnsink-swiss-site.glitch.me/]
 
 This project is hosted on Github. It is deployed on Glitch. 
 
