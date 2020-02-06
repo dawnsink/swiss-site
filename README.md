@@ -50,7 +50,7 @@ OK tried to solve some grid problems and kinda made things worse? I was able rea
 ![third go at CSS styling](CSS3.png) 
 
 *deployment*
-[View my site on Glitch][https://dawnsink-swiss-site.glitch.me/]
+[https://dawnsink-swiss-site.glitch.me/]
 
 This project is hosted on Github. It is deployed on Glitch. 
 
