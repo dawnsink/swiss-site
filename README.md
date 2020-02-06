@@ -1,6 +1,6 @@
 # Website for FOOD
 
-For this assignment, I'm reimagining printed promotional files from [link to Food on wikipedia](https://en.wikipedia.org/wiki/FOOD_(New_York_restaurant) "Food, an artist run restarurant started in 1971 by Carol Goodden, Tina Girouard and Gordon Matta-Clark"), as a website. 
+For this assignment, I'm reimagining printed promotional files from [Food, an artist run restarurant started in 1971 by Carol Goodden, Tina Girouard and Gordon Matta-Clark][https://en.wikipedia.org/wiki/FOOD_(New_York_restaurant], as a website.
 
 -----------------------------------
 
@@ -46,7 +46,8 @@ Just a modern browser to view.
 ![first CSS styling](CSS1.png) 
 This is where I got to after some fussing with grid boxes. It definitely lacks something. The design is so minimal and precise and my execution is so unskilled. 
 ![second stab at CSS styling](CSS2.png) 
-
+OK tried to solve some grid problems and kinda made things worse? I was able rearrange my html and css, adding a header. Then I added margin around the body and started setting padding-left to align elements across the header, text and images. It's not perfect- I can't figure out why the boxes are not equal. 
+![third go at CSS styling](CSS3.png) 
 
 *deployment*
 
